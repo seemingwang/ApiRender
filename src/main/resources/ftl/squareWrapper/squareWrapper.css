@@ -1,0 +1,10 @@
+.clearFix:after{
+ clear:both;
+ display:block;
+ visibility:hidden;
+ height:0;
+ line-height:0;
+ content:'';
+
+}
+.clearFix{zoom:1;}

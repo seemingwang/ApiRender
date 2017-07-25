@@ -1,0 +1,16 @@
+.clearFix:after{
+ clear:both;
+ display:block;
+ visibility:hidden;
+ height:0;
+ line-height:0;
+ content:'';
+
+}
+.clearFix{zoom:1;}
+.annotationWrapper {
+border-style:solid;
+border-color:red;
+border-width:1px;
+width:80%;
+}

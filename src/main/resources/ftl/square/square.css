@@ -1,0 +1,12 @@
+p {
+	color:red;
+	size:18px;
+}
+.square {
+border-style:solid;
+border-color:red;
+border-width:1px;
+height:50px;
+width:30%;
+float:left;
+}
